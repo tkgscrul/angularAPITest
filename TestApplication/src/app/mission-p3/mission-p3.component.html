@@ -1,0 +1,36 @@
+
+<h3>add mission here</h3>
+<input #title placeholder="post a title" type="text">
+<br>
+<input #date placeholder="postdate" type="date">
+<br>
+<textarea #description name="" id="" cols="30" rows="10"></textarea>
+<br>
+<button (click)="postmission(title.value,date.value,description.value)">submit post</button>
+
+<h3>remove post here(wirte Id you Wish to remove)</h3>
+<input #SelectorID type="number">
+<button (click)="removemission(SelectorID.value)">Remove Mission</button>
+
+
+
+<h3>edit post here</h3>
+<h4>select post id</h4>
+<input #SelectorID0 type="number">
+<h4>wirte here the edited post</h4>
+<input #title0 placeholder="post a title" type="text">
+<br>
+<input #date0 placeholder="postdate" type="date">
+<br>
+<textarea #description0 name="" id="" cols="30" rows="10"></textarea>
+<br>
+<button (click)="updatemission(SelectorID0.value,title0.value,date0.value,description0.value)">update mission</button>
+
+<h2>missionlist</h2>
+<div *ngFor="let mission of missions">
+    <h3>{{mission.missionname}}</h3>
+    <p>{{mission.misiondescription}}</p>
+    <p>POST ID {{mission.id}}</p>
+    <p>{{mission.missiondate}}</p>
+    
+</div>

@@ -1,0 +1,14 @@
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\bin\Debug\netcoreapp2.1\testapiangularmissions.deps.json
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\bin\Debug\netcoreapp2.1\testapiangularmissions.runtimeconfig.json
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\bin\Debug\netcoreapp2.1\testapiangularmissions.runtimeconfig.dev.json
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\bin\Debug\netcoreapp2.1\testapiangularmissions.dll
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\obj\Debug\netcoreapp2.1\testapiangularmissions.csprojAssemblyReference.cache
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\obj\Debug\netcoreapp2.1\testapiangularmissions.csproj.CoreCompileInputs.cache
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\obj\Debug\netcoreapp2.1\testapiangularmissions.RazorAssemblyInfo.cache
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\obj\Debug\netcoreapp2.1\testapiangularmissions.RazorAssemblyInfo.cs
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\obj\Debug\netcoreapp2.1\testapiangularmissions.AssemblyInfoInputs.cache
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\obj\Debug\netcoreapp2.1\testapiangularmissions.AssemblyInfo.cs
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\obj\Debug\netcoreapp2.1\testapiangularmissions.RazorTargetAssemblyInfo.cache
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\bin\Debug\netcoreapp2.1\testapiangularmissions.pdb
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\obj\Debug\netcoreapp2.1\testapiangularmissions.dll
+C:\Users\tkgsc\source\repos\testapiangularmissions\testapiangularmissions\obj\Debug\netcoreapp2.1\testapiangularmissions.pdb

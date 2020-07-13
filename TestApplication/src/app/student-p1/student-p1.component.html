@@ -1,0 +1,11 @@
+<h3>serch here list below:</h3>
+<input type="text" class="form-control" placeholder="Search Student by name..." [(ngModel)]="searchText">
+<h3>update here:</h3>
+<input #selectid type="text" placeholder="Wirte id number">
+<input #newscore type="text" placeholder="Write new score">
+<button (click)="updatescore(selectid.value,newscore.value)">Submit Changes</button>
+<div *ngFor="let student of myStundets | filter: searchText;">
+    <p>studentID:{{student.id}} name:{{student.name}}family name:{{student.fname}} score:{{student.score}}</p>
+</div>
+
+
